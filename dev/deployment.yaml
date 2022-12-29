@@ -17,4 +17,4 @@ spec:
       - image: wingkwong/argocd-playground:v2
         name: argocd-playground
         ports:
-        - containerPort: 8086
+        - containerPort: 80
